@@ -1,1 +1,1 @@
-# Neural-Networls-and-Deep-Learning
+# Neural-Networks-and-Deep-Learning
